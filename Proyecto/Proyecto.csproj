@@ -52,21 +52,66 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="ModelView\AlienController.cs" />
+    <Compile Include="Model\AlienFactory.cs" />
+    <Compile Include="Model\AlienShip.cs" />
+    <Compile Include="Model\Bullet.cs" />
+    <Compile Include="Model\Entityes.cs" />
+    <Compile Include="Model\IObserver.cs" />
+    <Compile Include="Model\ISubject.cs" />
+    <Compile Include="Model\SpaceShip.cs" />
+    <Compile Include="Model\Strcutures.cs" />
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
+    <Compile Include="View\segunda.cs">
+      <SubType>Form</SubType>
     </Compile>
+    <Compile Include="View\segunda.Designer.cs">
+      <DependentUpon>segunda.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="obj\Debug\Proyecto.Properties.Resources.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\segunda.resx">
+      <DependentUpon>segunda.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Assets\Audio\explosion.zip" />
+    <None Include="Assets\Audio\fastinvader1.zip" />
+    <None Include="Assets\Audio\fastinvader2.zip" />
+    <None Include="Assets\Audio\fastinvader3.zip" />
+    <None Include="Assets\Audio\fastinvader4.zip" />
+    <None Include="Assets\Audio\invaderkilled.zip" />
+    <None Include="Assets\Audio\shoot.zip" />
+    <None Include="Assets\Audio\space-invaders.zip" />
+    <None Include="Assets\Audio\spaceinvaders1_mpeg.zip" />
+    <None Include="Assets\Audio\spaceinvaders2_ram.zip" />
+    <None Include="Assets\Audio\ufo_highpitch.zip" />
+    <None Include="Assets\Audio\ufo_lowpitch.zip" />
+    <None Include="Assets\Sprites\Projectiles\ProjectileA.psd" />
+    <None Include="Assets\Sprites\Projectiles\ProjectileB.psd" />
+    <None Include="Assets\Sprites\Projectiles\ProjectileC.psd" />
+    <None Include="Assets\Sprites\shelter.psd" />
+    <None Include="bin\Debug\Proyecto.exe.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\Proyecto.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\Proyecto.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\Proyecto.csproj.GenerateResource.cache" />
+    <None Include="obj\Release\Proyecto.csproj.AssemblyReference.cache" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -75,6 +120,51 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\Audio\spaceinvaders1.mpeg" />
+    <Content Include="Assets\spaceinvaderspritesheet.png" />
+    <Content Include="Assets\spaceinvaders_128_icon.png" />
+    <Content Include="Assets\spaceinvaders_256_icon.png" />
+    <Content Include="Assets\spaceinvaders_512_icon.png" />
+    <Content Include="Assets\spaceinvaders_64_icon.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0000_A1.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0001_A2.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0002_B1.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0003_B2.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0004_C1.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0005_C2.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0006_Player.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0007_UFO.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0008_ShieldFull.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0009_EnemyExplosion.png" />
+    <Content Include="Assets\Sprites\Invaders\space__0010_PlayerExplosion.png" />
+    <Content Include="Assets\Sprites\Projectiles\missile_1.png" />
+    <Content Include="Assets\Sprites\Projectiles\missile_2.png" />
+    <Content Include="Assets\Sprites\Projectiles\missile_3.png" />
+    <Content Include="Assets\Sprites\Projectiles\missile_4.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileA_1.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileA_3.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileA_4.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileA__2.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileB_1.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileB_2.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileB_3.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileB_4.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileC_1.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileC_2.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileC_3.png" />
+    <Content Include="Assets\Sprites\Projectiles\ProjectileC_4.png" />
+    <Content Include="Assets\Sprites\Projectiles\Projectile_Player.png" />
+    <Content Include="bin\Debug\Proyecto.exe" />
+    <Content Include="bin\Debug\Proyecto.pdb" />
+    <Content Include="obj\Debug\Proyecto.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Proyecto.exe" />
+    <Content Include="obj\Debug\Proyecto.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

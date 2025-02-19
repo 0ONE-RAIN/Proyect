@@ -3,6 +3,7 @@ C:\Users\User\Documents\Final-Poryecto\Proyect\Proyecto\bin\Debug\Proyecto.exe
 C:\Users\User\Documents\Final-Poryecto\Proyect\Proyecto\bin\Debug\Proyecto.pdb
 C:\Users\User\Documents\Final-Poryecto\Proyect\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
 C:\Users\User\Documents\Final-Poryecto\Proyect\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\User\Documents\Final-Poryecto\Proyect\Proyecto\obj\Debug\Proyecto.View.segunda.resources
 C:\Users\User\Documents\Final-Poryecto\Proyect\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
 C:\Users\User\Documents\Final-Poryecto\Proyect\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Final-Poryecto\Proyect\Proyecto\obj\Debug\Proyecto.exe
