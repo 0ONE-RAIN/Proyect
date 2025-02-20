@@ -3,51 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\obj\\release\\.netframework,version=v4.7.2.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:obj\\release\\.netframework,version=v4.7.2.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\modelview\\aliencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:modelview\\aliencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\model\\alienship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\alienship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\model\\alienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\alienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\model\\entityes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\entityes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\view\\segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:view\\segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\view\\segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:view\\segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\model\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\model\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\model\\strcutures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\model\\alienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\alienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\modelview\\aliencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:modelview\\aliencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\model\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\model\\alienship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\alienship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\view\\segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:view\\segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\model\\entityes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\entityes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\modelview\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:modelview\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\model\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\model\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|c:\\users\\user\\documents\\final-poryecto\\proyect\\proyecto\\model\\bulletfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\bulletfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\view\\segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:view\\segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\model\\strcutures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:model\\strcutures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A4E43C1-4C50-4A0D-A47A-1A6A99D875B8}|Proyecto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,107 +70,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "BulletFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\BulletFactory.cs",
+              "RelativeDocumentMoniker": "Model\\BulletFactory.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\BulletFactory.cs",
+              "RelativeToolTip": "Model\\BulletFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T21:34:50.8Z",
+              "WhenOpened": "2025-02-20T02:06:04.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\ModelView\\BulletController.cs",
+              "RelativeDocumentMoniker": "ModelView\\BulletController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\ModelView\\BulletController.cs",
+              "RelativeToolTip": "ModelView\\BulletController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA4wCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:58:32.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\ISubject.cs",
+              "RelativeDocumentMoniker": "Model\\ISubject.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\ISubject.cs",
+              "RelativeToolTip": "Model\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:43:39.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\IObserver.cs",
+              "RelativeDocumentMoniker": "Model\\IObserver.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\IObserver.cs",
+              "RelativeToolTip": "Model\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:43:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\Bullet.cs",
+              "RelativeDocumentMoniker": "Model\\Bullet.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\Bullet.cs",
+              "RelativeToolTip": "Model\\Bullet.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:43:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Entityes.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\Entityes.cs",
               "RelativeDocumentMoniker": "Model\\Entityes.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\Entityes.cs",
               "RelativeToolTip": "Model\\Entityes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T20:17:19.095Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AlienController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\ModelView\\AlienController.cs",
               "RelativeDocumentMoniker": "ModelView\\AlienController.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\ModelView\\AlienController.cs",
               "RelativeToolTip": "ModelView\\AlienController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAhwFkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T20:22:00.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Strcutures.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\Strcutures.cs",
               "RelativeDocumentMoniker": "Model\\Strcutures.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\Strcutures.cs",
               "RelativeToolTip": "Model\\Strcutures.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T18:57:40.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AlienShip.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\AlienShip.cs",
               "RelativeDocumentMoniker": "Model\\AlienShip.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\AlienShip.cs",
               "RelativeToolTip": "Model\\AlienShip.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIA2wCsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T18:52:48.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "SpaceShip.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\SpaceShip.cs",
               "RelativeDocumentMoniker": "Model\\SpaceShip.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\SpaceShip.cs",
               "RelativeToolTip": "Model\\SpaceShip.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA5wA0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T17:17:23.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AlienFactory.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\AlienFactory.cs",
               "RelativeDocumentMoniker": "Model\\AlienFactory.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Model\\AlienFactory.cs",
               "RelativeToolTip": "Model\\AlienFactory.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T18:52:28.37Z",
               "EditorCaption": ""
@@ -170,14 +223,14 @@
               "RelativeDocumentMoniker": "View\\segunda.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\View\\segunda.cs",
               "RelativeToolTip": "View\\segunda.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswGAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T16:44:19.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "segunda.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\View\\segunda.cs",
               "RelativeDocumentMoniker": "View\\segunda.cs",
@@ -189,40 +242,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:43:55.466Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-02-19T16:43:55.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\Proyecto\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T16:43:43.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "tasks.vs.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\.vs\\tasks.vs.json",
-              "RelativeDocumentMoniker": "..\\.vs\\tasks.vs.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\Final-Poryecto\\Proyect\\.vs\\tasks.vs.json",
-              "RelativeToolTip": "..\\.vs\\tasks.vs.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T15:32:07.244Z",
               "EditorCaption": ""
             }
           ]

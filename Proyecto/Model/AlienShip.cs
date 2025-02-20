@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Security.Policy;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Proyecto.Model
@@ -11,39 +12,29 @@ namespace Proyecto.Model
     public class AlienShip : Entityes
 
     {
-        private static int Direction = 1; // 1 = Derecha, -1 = Izquierda
-        private static int StepX = 5;
-        private static int StepY = 20;
-        private static int LeftBound = 50;
-        private static int RightBound = 500;
+
+        private Image[] alienSprites;
         private int spriteIndex = 0;
-        private Image[] spriteVariants;
-
-        public AlienShip(int x, int y, Image sprite) : base(x, y, sprite) { }
 
 
-        public void Move()
+        public AlienShip(int x, int y, Image[] sprites) : base(x, y, sprites[0])
         {
-            _PosX += StepX * Direction;
-            UpdateSprite();
+            alienSprites = sprites;
+
+        }
+        public void UpdatePosition(int x, int y)
+        {
+            X = x;
+            Y = y;
+            NotifyObservers();
+        }
+        public void UpdateSprite()
+        {
+            spriteIndex = (spriteIndex + 1) % alienSprites.Length;
+            Sprite = alienSprites[spriteIndex];
             NotifyObservers();
         }
 
-        private void UpdateSprite()
-        {
-            spriteIndex = (spriteIndex + 1) % spriteVariants.Length;
-            sprite = spriteVariants[spriteIndex];
-        }
-
-        public static void ChangeDirectionAndMoveDown()
-        {
-            Direction *= -1;
-            foreach (var alien in AlienFactory.GetAliens())
-            {
-                alien._PosY += StepY;
-                alien.NotifyObservers();
-            }
-        }
 
     }
 }

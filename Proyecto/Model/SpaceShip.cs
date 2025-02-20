@@ -63,5 +63,10 @@ namespace Proyecto.Model
             }
             return newBitmap;
         }
+
+        public void Update(Entityes entityes)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

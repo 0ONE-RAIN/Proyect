@@ -53,9 +53,11 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="ModelView\AlienController.cs" />
+    <Compile Include="ModelView\BulletController.cs" />
     <Compile Include="Model\AlienFactory.cs" />
     <Compile Include="Model\AlienShip.cs" />
     <Compile Include="Model\Bullet.cs" />
+    <Compile Include="Model\BulletFactory.cs" />
     <Compile Include="Model\Entityes.cs" />
     <Compile Include="Model\IObserver.cs" />
     <Compile Include="Model\ISubject.cs" />
